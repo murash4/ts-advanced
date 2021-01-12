@@ -5,11 +5,11 @@ class Person {
 const max = new Person('Maxim')
 // Demo comment
 
-const btn = document.querySelector('#btn')!
+// const btn = document.querySelector('#btn')!
 
-btn.addEventListener('click', () => {
-    console.log(111)
-})
+// btn.addEventListener('click', () => {
+//     console.log(111)
+// })
 
 let anyFlag
 
